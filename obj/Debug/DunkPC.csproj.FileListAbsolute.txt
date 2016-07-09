@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2015\Projects\DunkPC\bin\Debug\DunkPC.exe.config
+\\psf\home\documents\visual studio 2015\Projects\DunkPC\bin\Debug\DunkPC.exe
+\\psf\home\documents\visual studio 2015\Projects\DunkPC\bin\Debug\DunkPC.pdb
+\\psf\home\documents\visual studio 2015\Projects\DunkPC\obj\Debug\DunkPC.exe
+\\psf\home\documents\visual studio 2015\Projects\DunkPC\obj\Debug\DunkPC.pdb
+\\psf\home\documents\visual studio 2015\Projects\DunkPC\obj\Debug\DunkPC.csprojResolveAssemblyReference.cache
